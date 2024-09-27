@@ -376,7 +376,7 @@
 	<ThingDef ParentName="RPP_Bot_I" Class="AIRobot.X2_ThingDef_AIRobot">
 		<defName>RPP_Bot_Builder_I</defName>
 		<label>Builder Bot</label>
-		<description>A Tier 1 (workskill 4) unit capable of constructing, deconstructing, repairing, and mining.</description>
+		<description>A Tier 1 (workskill 4) unit capable of constructing, deconstructing, repairing, mining, and quarry.</description>
 		<statBases>
 			<ConstructSuccessChance>1.25</ConstructSuccessChance>
 			<MiningYield>1</MiningYield>
@@ -385,10 +385,12 @@
 			<mechEnabledWorkTypes>
 				<li>Construction</li>
 				<li>Mining</li>
+				<li>QRY_MineQuarry</li>
 			</mechEnabledWorkTypes>
 			<mechWorkTypePriorities>
 				<Construction>1</Construction>
 				<Mining>3</Mining>
+				<QRY_MineQuarry>4</QRY_MineQuarry>
 			</mechWorkTypePriorities>
 		</race>
 		<robotWorkTypes>
@@ -409,10 +411,12 @@
 			<mechEnabledWorkTypes>
 				<li>Construction</li>
 				<li>Mining</li>
+				<li>QRY_MineQuarry</li>
 			</mechEnabledWorkTypes>
 			<mechWorkTypePriorities>
 				<Construction>1</Construction>
 				<Mining>3</Mining>
+				<QRY_MineQuarry>4</QRY_MineQuarry>
 			</mechWorkTypePriorities>
 		</race>
 		<robotWorkTypes>
@@ -433,10 +437,12 @@
 			<mechEnabledWorkTypes>
 				<li>Construction</li>
 				<li>Mining</li>
+				<li>QRY_MineQuarry</li>
 			</mechEnabledWorkTypes>
 			<mechWorkTypePriorities>
 				<Construction>1</Construction>
 				<Mining>3</Mining>
+				<QRY_MineQuarry>4</QRY_MineQuarry>
 			</mechWorkTypePriorities>
 		</race>
 
@@ -458,10 +464,12 @@
 			<mechEnabledWorkTypes>
 				<li>Construction</li>
 				<li>Mining</li>
+				<li>QRY_MineQuarry</li>
 			</mechEnabledWorkTypes>
 			<mechWorkTypePriorities>
 				<Construction>1</Construction>
 				<Mining>3</Mining>
+				<QRY_MineQuarry>4</QRY_MineQuarry>
 			</mechWorkTypePriorities>
 		</race>
 		<robotWorkTypes>
@@ -482,10 +490,12 @@
 			<mechEnabledWorkTypes>
 				<li>Construction</li>
 				<li>Mining</li>
+				<li>QRY_MineQuarry</li>
 			</mechEnabledWorkTypes>
 			<mechWorkTypePriorities>
 				<Construction>1</Construction>
 				<Mining>3</Mining>
+				<QRY_MineQuarry>4</QRY_MineQuarry>
 			</mechWorkTypePriorities>
 		</race>
 		<robotWorkTypes>
