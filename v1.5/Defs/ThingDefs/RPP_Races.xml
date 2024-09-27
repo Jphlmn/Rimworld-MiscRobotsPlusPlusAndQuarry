@@ -385,12 +385,12 @@
 			<mechEnabledWorkTypes>
 				<li>Construction</li>
 				<li>Mining</li>
-				<li>QRY_MineQuarry</li>
+				<li>QuarryMining</li>
 			</mechEnabledWorkTypes>
 			<mechWorkTypePriorities>
 				<Construction>1</Construction>
 				<Mining>3</Mining>
-				<QRY_MineQuarry>4</QRY_MineQuarry>
+				<QuarryMining>4</QuarryMining>
 			</mechWorkTypePriorities>
 		</race>
 		<robotWorkTypes>
@@ -411,12 +411,12 @@
 			<mechEnabledWorkTypes>
 				<li>Construction</li>
 				<li>Mining</li>
-				<li>QRY_MineQuarry</li>
+				<li>QuarryMining</li>
 			</mechEnabledWorkTypes>
 			<mechWorkTypePriorities>
 				<Construction>1</Construction>
 				<Mining>3</Mining>
-				<QRY_MineQuarry>4</QRY_MineQuarry>
+				<QuarryMining>4</QuarryMining>
 			</mechWorkTypePriorities>
 		</race>
 		<robotWorkTypes>
@@ -437,12 +437,12 @@
 			<mechEnabledWorkTypes>
 				<li>Construction</li>
 				<li>Mining</li>
-				<li>QRY_MineQuarry</li>
+				<li>QuarryMining</li>
 			</mechEnabledWorkTypes>
 			<mechWorkTypePriorities>
 				<Construction>1</Construction>
 				<Mining>3</Mining>
-				<QRY_MineQuarry>4</QRY_MineQuarry>
+				<QuarryMining>4</QuarryMining>
 			</mechWorkTypePriorities>
 		</race>
 
@@ -464,12 +464,12 @@
 			<mechEnabledWorkTypes>
 				<li>Construction</li>
 				<li>Mining</li>
-				<li>QRY_MineQuarry</li>
+				<li>QuarryMining</li>
 			</mechEnabledWorkTypes>
 			<mechWorkTypePriorities>
 				<Construction>1</Construction>
 				<Mining>3</Mining>
-				<QRY_MineQuarry>4</QRY_MineQuarry>
+				<QuarryMining>4</QuarryMining>
 			</mechWorkTypePriorities>
 		</race>
 		<robotWorkTypes>
@@ -490,12 +490,12 @@
 			<mechEnabledWorkTypes>
 				<li>Construction</li>
 				<li>Mining</li>
-				<li>QRY_MineQuarry</li>
+				<li>QuarryMining</li>
 			</mechEnabledWorkTypes>
 			<mechWorkTypePriorities>
 				<Construction>1</Construction>
 				<Mining>3</Mining>
-				<QRY_MineQuarry>4</QRY_MineQuarry>
+				<QuarryMining>4</QuarryMining>
 			</mechWorkTypePriorities>
 		</race>
 		<robotWorkTypes>
